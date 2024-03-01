@@ -1,4 +1,4 @@
-org 0x7C00 ; Look for startup
+org 0x7C00
 bits 16
 
 
